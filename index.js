@@ -1,1 +1,1 @@
-module.exports = require("./Winwheel");
+module.exports = require("./lib/Winwheel");
